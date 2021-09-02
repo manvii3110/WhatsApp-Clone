@@ -6,7 +6,7 @@
     
     .chat__header {
         padding: 0;
-        padding-left: 20px;
+        padding: 20px;
         display: flex;
         align-items: center;
         border-bottom: 1px solid lightgray;
@@ -20,6 +20,7 @@
     .chat__headerInfo>h3 {
         margin-bottom: 2px;
         font-weight: 500;
+        color: black;
     }
     
     .chat__headerInfo>p {
@@ -82,7 +83,7 @@
         justify-content: space-between;
         padding: 10px;
         align-items: center;
-        height: 72px;
+        height: 52px;
         border-top: 1px solid lightgray;
     }
     
@@ -94,7 +95,7 @@
     .chat__footer>form>input {
         flex: 1;
         border-radius: 25px;
-        padding: 15px;
+        padding: 10px;
         border: none;
     }
     

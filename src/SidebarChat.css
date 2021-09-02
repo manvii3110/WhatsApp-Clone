@@ -18,3 +18,8 @@
 .sidebarChat__info {
     margin-left: 20px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
